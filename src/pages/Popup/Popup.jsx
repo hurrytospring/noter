@@ -17,7 +17,7 @@ const Popup = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React!
+         wotm 是个worker
         </a>
       </header>
     </div>
